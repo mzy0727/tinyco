@@ -1,0 +1,8 @@
+/home/mzy/Code/tinyco/build/CMakeFiles/rebuild_cache.dir
+/home/mzy/Code/tinyco/build/CMakeFiles/edit_cache.dir
+/home/mzy/Code/tinyco/build/src/CMakeFiles/rebuild_cache.dir
+/home/mzy/Code/tinyco/build/src/CMakeFiles/edit_cache.dir
+/home/mzy/Code/tinyco/build/src/CMakeFiles/tinyco.dir
+/home/mzy/Code/tinyco/build/example/CMakeFiles/rebuild_cache.dir
+/home/mzy/Code/tinyco/build/example/CMakeFiles/edit_cache.dir
+/home/mzy/Code/tinyco/build/example/CMakeFiles/main.dir

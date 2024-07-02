@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libtinyco.a  CMakeFiles/tinyco.dir/context.cc.o CMakeFiles/tinyco.dir/coroutine.cc.o CMakeFiles/tinyco.dir/schedule.cc.o
+/usr/bin/ranlib ../../lib/libtinyco.a
